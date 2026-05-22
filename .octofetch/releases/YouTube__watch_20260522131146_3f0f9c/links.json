@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3953",
+  "folder": "YouTube__watch_20260522131146_3f0f9c",
+  "base_name": "O_mer_Bu_ku_lmezo_lu_-_Sunrise_(Official_Video)_6TCj27M6sGk_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/vkhir1986-eng/Cloud-Downloads-1/releases/tag/co-releases-v1-3953",
+  "files": [
+    {
+      "name": "O_mer_Bu_ku_lmezo_lu_-_Sunrise_.Official_Video._6TCj27M6sGk_360p.mp4",
+      "url": "https://github.com/vkhir1986-eng/Cloud-Downloads-1/releases/download/co-releases-v1-3953/O_mer_Bu_ku_lmezo_lu_-_Sunrise_.Official_Video._6TCj27M6sGk_360p.mp4",
+      "api_url": "https://api.github.com/repos/vkhir1986-eng/Cloud-Downloads-1/releases/assets/427088941",
+      "id": 427088941,
+      "size": 5566330,
+      "download_count": 0
+    }
+  ]
+}
