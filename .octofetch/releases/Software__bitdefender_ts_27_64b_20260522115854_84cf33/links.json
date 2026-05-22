@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4457",
+  "folder": "Software__bitdefender_ts_27_64b_20260522115854_84cf33",
+  "base_name": "Software__bitdefender_ts_27_64b_20260522115854_84cf33.exe",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/vkhir1986-eng/Cloud-Downloads-1/releases/tag/co-releases-v1-4457",
+  "files": [
+    {
+      "name": "Software__bitdefender_ts_27_64b_20260522115854_84cf33.exe",
+      "url": "https://github.com/vkhir1986-eng/Cloud-Downloads-1/releases/download/co-releases-v1-4457/Software__bitdefender_ts_27_64b_20260522115854_84cf33.exe",
+      "api_url": "https://api.github.com/repos/vkhir1986-eng/Cloud-Downloads-1/releases/assets/427045289",
+      "id": 427045289,
+      "size": 867080336,
+      "download_count": 0
+    }
+  ]
+}
