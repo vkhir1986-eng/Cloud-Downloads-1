@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2972",
+  "folder": "YouTube__watch_20260522130956_cbadf2",
+  "base_name": "mgtPLth3fiw_mgtPLth3fiw_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/vkhir1986-eng/Cloud-Downloads-1/releases/tag/co-releases-v1-2972",
+  "files": [
+    {
+      "name": "mgtPLth3fiw_mgtPLth3fiw_360p.mp4",
+      "url": "https://github.com/vkhir1986-eng/Cloud-Downloads-1/releases/download/co-releases-v1-2972/mgtPLth3fiw_mgtPLth3fiw_360p.mp4",
+      "api_url": "https://api.github.com/repos/vkhir1986-eng/Cloud-Downloads-1/releases/assets/427088081",
+      "id": 427088081,
+      "size": 74583199,
+      "download_count": 0
+    }
+  ]
+}
